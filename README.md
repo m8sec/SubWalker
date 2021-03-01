@@ -22,7 +22,7 @@ sudo ./install.sh
 
 ### Usage
 ```text
-#> ./subwalker example.com
+#> ./subwalker.sh example.com
 [*] Executing SubWalker against: example.com
 [*] Launching SubScraper
 [*] Launching Sublist3r
