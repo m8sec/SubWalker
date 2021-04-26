@@ -32,3 +32,7 @@ sudo ./install.sh
 [+] SubWalker complete with 107 results
 [+] Output saved to: /opt/subwalker/subwalker.txt
 ```
+
+### Write-Up 
+* [Tool Chaining with Bash *(m8r0wn.medium.com)*](https://infosecwriteups.com/intro-to-bug-bounty-automation-tool-chaining-with-bash-13e11348016f)
+
