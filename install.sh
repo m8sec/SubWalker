@@ -20,7 +20,7 @@ cd Sublist3r
 pip3 install -r requirements.txt
 cd ../
 
-git clone https://github.com/m8r0wn/subscraper
+git clone https://github.com/m8sec/subscraper
 cd subscraper
 python3 setup.py install
 cd ../
