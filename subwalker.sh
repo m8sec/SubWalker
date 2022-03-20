@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# m8r0wn
+# m8sec
 
 TARGET=$1
 if ! [ $TARGET ]; then
