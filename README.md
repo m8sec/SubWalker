@@ -1,7 +1,4 @@
 # SubWalker
-[![](https://img.shields.io/twitter/follow/m8sec?color=blue&label=Twitter&logo=twitter&style=plastic)](https://twitter.com/m8sec)&nbsp;&nbsp;
-[![](https://img.shields.io/github/followers/m8sec?color=gray&label=GitHub&logo=github&style=plastic)](https://github.com/m8sec)&nbsp;&nbsp;
-[![](https://img.shields.io/badge/Sponsor-GitHub-green?style=plastic&logo=github)](https://github.com/sponsors/m8sec)&nbsp;&nbsp;
 
 SubWalker is a simple Bash recon script that will simultaneously execute various subdomain enumeration tools, aggregate the results, and write entries to a file free of duplicates. This helps prevent discrepancies in enumeration tools, even those claiming to use similar sources. 
 
